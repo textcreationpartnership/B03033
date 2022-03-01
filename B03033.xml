@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments desire and resolution cocerning [sic] the Prince presented to His Majesty at York by the Lord Howard of Char. Wherein is expressed their loyall and faithfull intentions towards his Majestie and his Highnesse the Prince, his sonne. And their desire of his returne to Hampton-Court, according to his Maiesties first resolution and intention, whereby the feare of subject may be removed, and their jealousie secured.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03033</idno>
+            <idno type="STC">Wing E2135AA</idno>
+            <idno type="STC">ESTC R212785</idno>
+            <idno type="EEBO-CITATION">52612151</idno>
+            <idno type="OCLC">ocm 52612151</idno>
+            <idno type="VID">179443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179443)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2789:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments desire and resolution cocerning [sic] the Prince presented to His Majesty at York by the Lord Howard of Char. Wherein is expressed their loyall and faithfull intentions towards his Majestie and his Highnesse the Prince, his sonne. And their desire of his returne to Hampton-Court, according to his Maiesties first resolution and intention, whereby the feare of subject may be removed, and their jealousie secured.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Berkshire, Charles Howard, Earl of, ca. 1615-1679.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Greensmith, and A. Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles, --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179443:1" rendition="simple:additions"/>
+            <p>THE PARLIAMENTS DESIRE and RESOLUTION Cocerning the PRINCE PRESENTED TO HIS MAJESTY at <hi>York</hi> by the Lord <hi>Howard</hi> of <hi>Char.</hi>
+            </p>
+            <p>Wherein is expreſſed their loyall and faithfull intentions towards his Majeſtie and his Highneſſe the Prince, his Sonne.</p>
+            <p>And their Deſire of his Returne to <hi>Hampton-Court,</hi> according to his <hi>Maieſties</hi> firſt Reſolution and Intention, whereby the feare of Subject may be removed, and their Jealouſie ſecured,</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+               <figure>
+                  <figDesc>Tudor rose</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>French fleur-de-lis</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Scottish thistle</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of Irish harp</figDesc>
+               </figure>
+            </figure>
+            <p>LONDON, Printed for <hi>J. Greenſmith,</hi> and <hi>A. Coe.</hi> 1642.</p>
+            <pb facs="tcp:179443:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:179443:2" rendition="simple:additions"/>
+            <head>
+               <hi>The Parliaments Deſire and Reſolution concer<g ref="char:EOLhyphen"/>ning the</hi> PRINCE.</head>
+            <p>VVHat have been and ſtill are the diſtractions of theſe times, are well knowne to all this King<g ref="char:EOLhyphen"/>dome, the meaneſt and weakeſt apprehenſi<g ref="char:EOLhyphen"/>on needs no other expreſſion then what they can apprehend from the indiſpoſition of theſe times, ariſing from the diſcontents between his Majeſty and his now aſſembled Parliament, which ſeemes to fruſtrate the happy and joyfull proceedings of the wil<g ref="char:EOLhyphen"/>ling Subject, whereby he would endeavour to ſettle the peaceable and flouriſhing E<g ref="char:EOLhyphen"/>ſtate of this Kingdome. His Majeſties re<g ref="char:EOLhyphen"/>movall beyond all thought or expectation from his Parliament, he having had no juſt occaſion thereof offered unto him, but was raiſed by a moſt unjuſt ſuſpition and jea<g ref="char:EOLhyphen"/>louſie of their fidelity and loyaltie, did ſtir
+<pb facs="tcp:179443:3"/> up ſtrange and feareful conceptions in their breaſts, which for a while did daſh and cruſh all their Deſignes and Proceedings for the peace of the Kingdome, which cannot ſmile and looke merry, ſo long as the State and quiet thereof ſtands thus diſtracted, and indeede how can the Bride but mourne, which at the time and expectation of moſt comfort, wants the true and reall conſola<g ref="char:EOLhyphen"/>tion of her Bridegroome; or how can the Body be in health and proſperity, when it is deprived of the benefit and comfort of the Head; aſwell may the Day looke ſmi<g ref="char:EOLhyphen"/>ling and glorious without the luſtre of the Sunne, as the Subject looke cheerefull, be<g ref="char:EOLhyphen"/>ing deprived of the happy Society of his Soveraigne, whoſe chiefeſt happineſſe con<g ref="char:EOLhyphen"/>ſiſts in the fruition of a loving Soveraigne, as the happineſſe of a Childe in the enjoy<g ref="char:EOLhyphen"/>ing of a loving Father. Often hath the Houſe of Parliament endeavoured by many loyall and ſubmiſſe Sollicitations and Peti<g ref="char:EOLhyphen"/>tions, to returne the Glory and Comfort of his Perſon unto his Subjects, whereby their diverted hearts will be much elevated and
+<pb facs="tcp:179443:3" rendition="simple:additions"/> raiſed from the melancholly feares which they are now involved in; but all in vain, his Majeſty being with-drawne from them by the ſiniſter and malitious counſels of the malignant party. Since this unhappy loſſe of his Majeſty, which hath produced ſuch diſcontents generally in the Subject, worſe counſell hath poſſeſſed his Majeſties tender and loving breaſt, and ſo far prevailed with him, that againſt his firſt and naturall in<g ref="char:EOLhyphen"/>tention, he hath againſt the deſire and in<g ref="char:EOLhyphen"/>treaty of the Parliament deprived them of the preſence of his Highneſſe the <hi>Prince,</hi> which hath produced a generall griefe and feare in the Subject, and cauſed him to ſu<g ref="char:EOLhyphen"/>ſpect, that his Majeſties intentions are be<g ref="char:EOLhyphen"/>yond their former beliefe, croſſe and oppo<g ref="char:EOLhyphen"/>ſite to their loyalty, and intentionall pro<g ref="char:EOLhyphen"/>ceeding for the benefit of this Kingdome: For what can their loves and loyalties o<g ref="char:EOLhyphen"/>therwiſe apprehend. when they are not on<g ref="char:EOLhyphen"/>ly denyed his Majeſties preſence and aſſiſt<g ref="char:EOLhyphen"/>ance to countenance and furtheir their Liberties, but alſo are denyed him in whoſe
+<pb facs="tcp:179443:4"/> welfare and proſperity conſiſts the future good and continuing happneſſe of this Kingdome.</p>
+            <p>They firſt humbly deſired his Majeſty that his Highneſſe might not be removed from <hi>Hampton Court,</hi> which did ſeeme to take ſome good effect, and to be with wel<g ref="char:EOLhyphen"/>come entertained by his Majeſty, but upon the Queenes removall towards <hi>Dover,</hi> the King returning, and reſolving his ſtay at <hi>Greenwich,</hi> the Prince was commanded from <hi>Greenwich</hi> to attend his Majeſty there when they formerly conceived, that his Majeſty had reſolved his ſtay at <hi>Hampton Court:</hi> Whereupon they often did petition his Ma<g ref="char:EOLhyphen"/>jeſty, that his Highneſſe might returne to <hi>Hampton-Court,</hi> their deſire being grounded upon the indiſpoſition of the Marqueſſe of <hi>Hartford,</hi> whoſe fidelity &amp; faith was thought worthy of ſo great a truſt, as by the Houſe to be choſen Governour to his Highneſſe, who now being much diſpoſed to ſickneſſe, was not able to attend the Prince to any remote place, being unable to travell, by reaſon of his continuall caſualty of health,
+<pb facs="tcp:179443:4" rendition="simple:additions"/> hee being choſen his Governour, it was not thought convenient he ſhould farre depart: Neither was it to be conſtrued or imagined a needleſſe or unneceſſary feare or jealouſie, conſidering the future eſtate and welfare did wholly depend upon his ſafety and welfare, and in him did lye the joy and comfort of the Loyall Subject; from this one ground alſo the Parliament doth conceive many feares and jealouſies may ariſe, and be pro<g ref="char:EOLhyphen"/>moted in the hearts of his Majeſties moſt loyall Subjects, which will be very neceſſa<g ref="char:EOLhyphen"/>ry to remove for the content of the Sub<g ref="char:EOLhyphen"/>ject, and the peace of this Land: Neither can his Majeſty in equity deny theſe faith<g ref="char:EOLhyphen"/>full deſires of theſe his loyall Subjects, ſince their intentions, care, and vigilancie have been alwayes induſtrious to maintaine his Majeſties Rights and Honours, and to pro<g ref="char:EOLhyphen"/>vide for the future welfare as the preſent, both of Majeſties perſon, his Royall Pro<g ref="char:EOLhyphen"/>geny, and the ſecurity and happineſſe of his whole Kingdome. They are confident that none doe miſ-conſtrue their pious inten<g ref="char:EOLhyphen"/>tions, but thoſe onely who in an indiſpo<g ref="char:EOLhyphen"/>ſition
+<pb facs="tcp:179443:5"/> to the publike Good, or a guilt of their owne integrity, have ſtrived to poſ<g ref="char:EOLhyphen"/>ſeſſe his Majeſty with theſe ſiniſter and evil counſels againſt his loyally diſpoſed Parlia<g ref="char:EOLhyphen"/>ment, and their juſt proceedings.</p>
+            <p>To avoid theſe and the like occaſion of diſcontents, the Parliament did deſire his Majeſty, that his Highneſſe might continue at <hi>Hampton Court,</hi> by whoſe preſence they hope to ſettle the diſcontents of theſe times and alſo to ſecure themſelves from all fu<g ref="char:EOLhyphen"/>ture breaches, when they may daily behold the welfare of him in whom they doe place all their future hopes, and in whoſe miſ<g ref="char:EOLhyphen"/>carrying an univerſall mourning muſt of neceſſity over-ſpread the face of the whole Kingdome.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
